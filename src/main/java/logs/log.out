@@ -213,3 +213,327 @@
 2021-12-16 03:12:620 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b181a12e407d7f0d4ece9dfdd552b2ed)] -> xpath: //a[text()='buy + sell']]
 2021-12-16 03:12:593 INFO  ManageDriver :30 - Launching Chrome Browser
 2021-12-16 03:12:791 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c6b973e3c9436354b751b06ed737d36f)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:254 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:757 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (bc9d4a7830abcb1545f33d33ce3ceed6)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:515 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:334 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:724 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (ece5c9abf36edaae1bd7d6adf2c0d14a)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:150 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:533 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:874 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c57f76fa016097de79070a5843b42fb6)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:320 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:564 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:681 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (aa2d87cd5238424f8323202604c1cfb3)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:699 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:827 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:826 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (7eb97c40018f62d95e236ac82c01b132)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:403 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:585 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:877 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (1f1963fcd71f1c35dd6ca57c78d08afa)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:333 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:861 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:867 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (cd216f31370d6861fc8481a7ea532ec9)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:248 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:611 INFO  NewAndUsedCarSearchPage :47 - select make : Audi
+2021-12-16 11:12:872 INFO  NewAndUsedCarSearchPage :52 - select model : A4
+2021-12-16 11:12:684 INFO  NewAndUsedCarSearchPage :57 - selecting location : Perth
+2021-12-16 11:12:72 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 15,000
+2021-12-16 11:12:195 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (cd216f31370d6861fc8481a7ea532ec9)] -> id: search-submit]
+2021-12-16 11:12:530 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (cd216f31370d6861fc8481a7ea532ec9)] -> css selector: .listing-search-title]
+2021-12-16 11:12:364 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:749 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (759d3994c31aedb6106673e6e1013002)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:201 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:572 INFO  NewAndUsedCarSearchPage :47 - select make : Honda
+2021-12-16 11:12:702 INFO  NewAndUsedCarSearchPage :52 - select model : Accord
+2021-12-16 11:12:798 INFO  NewAndUsedCarSearchPage :57 - selecting location : All
+2021-12-16 11:12:164 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 7,500
+2021-12-16 11:12:719 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (759d3994c31aedb6106673e6e1013002)] -> id: search-submit]
+2021-12-16 11:12:54 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (759d3994c31aedb6106673e6e1013002)] -> css selector: .listing-search-title]
+2021-12-16 11:12:865 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:416 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (fb6899f0b2d208805b8829d0a1f0ecc4)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:243 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:623 INFO  NewAndUsedCarSearchPage :47 - select make : Mitsubishi
+2021-12-16 11:12:760 INFO  NewAndUsedCarSearchPage :52 - select model : Lancer
+2021-12-16 11:12:623 INFO  NewAndUsedCarSearchPage :57 - selecting location : New England
+2021-12-16 11:12:31 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 40,000
+2021-12-16 11:12:252 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (fb6899f0b2d208805b8829d0a1f0ecc4)] -> id: search-submit]
+2021-12-16 11:12:587 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (fb6899f0b2d208805b8829d0a1f0ecc4)] -> css selector: .listing-search-title]
+2021-12-16 11:12:520 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:871 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (f71060a2ebcf823052b8e96e9c8d2e77)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:331 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:723 INFO  NewAndUsedCarSearchPage :47 - select make : Mini
+2021-12-16 11:12:865 INFO  NewAndUsedCarSearchPage :52 - select model : Cooper
+2021-12-16 11:12:930 INFO  NewAndUsedCarSearchPage :57 - selecting location : All
+2021-12-16 11:12:296 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 30,000
+2021-12-16 11:12:572 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (f71060a2ebcf823052b8e96e9c8d2e77)] -> id: search-submit]
+2021-12-16 11:12:789 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (f71060a2ebcf823052b8e96e9c8d2e77)] -> css selector: .listing-search-title]
+2021-12-16 11:12:566 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:53 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (66193d47633d076646a4ef88b152c476)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:418 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:779 INFO  NewAndUsedCarSearchPage :47 - select make : Maserati
+2021-12-16 11:12:915 INFO  NewAndUsedCarSearchPage :52 - select model : 3200
+2021-12-16 11:12:737 INFO  NewAndUsedCarSearchPage :57 - selecting location : Melbourne
+2021-12-16 11:12:72 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 90,000
+2021-12-16 11:12:346 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (66193d47633d076646a4ef88b152c476)] -> id: search-submit]
+2021-12-16 11:12:639 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (66193d47633d076646a4ef88b152c476)] -> css selector: .listing-search-title]
+2021-12-16 11:12:586 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:868 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (4f706721173d4e49076254a33a0ba6bb)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:247 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:504 INFO  NewAndUsedCarSearchPage :47 - select make : Ford
+2021-12-16 11:12:786 INFO  NewAndUsedCarSearchPage :52 - select model : Fiesta
+2021-12-16 11:12:589 INFO  NewAndUsedCarSearchPage :57 - selecting location : Sydney
+2021-12-16 11:12:964 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 20,000
+2021-12-16 11:12:965 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (4f706721173d4e49076254a33a0ba6bb)] -> id: search-submit]
+2021-12-16 11:12:317 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (4f706721173d4e49076254a33a0ba6bb)] -> css selector: .listing-search-title]
+2021-12-16 11:12:188 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:673 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b43eeb22484ab9c1f6b5d404ebd49ca6)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:103 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:378 INFO  NewAndUsedCarSearchPage :47 - select make : Audi
+2021-12-16 11:12:720 INFO  NewAndUsedCarSearchPage :52 - select model : A3
+2021-12-16 11:12:564 INFO  NewAndUsedCarSearchPage :57 - selecting location : Perth
+2021-12-16 11:12:54 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 35,000
+2021-12-16 11:12:649 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (b43eeb22484ab9c1f6b5d404ebd49ca6)] -> id: search-submit]
+2021-12-16 11:12:972 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (b43eeb22484ab9c1f6b5d404ebd49ca6)] -> css selector: .listing-search-title]
+2021-12-16 11:12:760 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:645 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0a0a8e73411a9ebdb2f1690b42ef0a68)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:551 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:790 INFO  NewAndUsedCarSearchPage :47 - select make : Honda
+2021-12-16 11:12:965 INFO  NewAndUsedCarSearchPage :52 - select model : Accord
+2021-12-16 11:12:43 INFO  NewAndUsedCarSearchPage :57 - selecting location : All
+2021-12-16 11:12:403 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 10,000
+2021-12-16 11:12:697 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (0a0a8e73411a9ebdb2f1690b42ef0a68)] -> id: search-submit]
+2021-12-16 11:12:816 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (0a0a8e73411a9ebdb2f1690b42ef0a68)] -> css selector: .listing-search-title]
+2021-12-16 11:12:597 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:714 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (65390669f9db0134a006b729dfa3aa96)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:577 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:840 INFO  NewAndUsedCarSearchPage :47 - select make : BMW
+2021-12-16 11:12:136 INFO  NewAndUsedCarSearchPage :52 - select model : 5 Series
+2021-12-16 11:12:892 INFO  NewAndUsedCarSearchPage :57 - selecting location : New England
+2021-12-16 11:12:241 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 90,000
+2021-12-16 11:12:625 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (65390669f9db0134a006b729dfa3aa96)] -> id: search-submit]
+2021-12-16 11:12:186 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (65390669f9db0134a006b729dfa3aa96)] -> css selector: .listing-search-title]
+2021-12-16 11:12:991 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:323 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (bb888f9fbd63a056ad37197c1cd983ef)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:635 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:943 INFO  NewAndUsedCarSearchPage :47 - select make : Mini
+2021-12-16 11:12:80 INFO  NewAndUsedCarSearchPage :52 - select model : Cooper
+2021-12-16 11:12:940 INFO  NewAndUsedCarSearchPage :57 - selecting location : Hunter
+2021-12-16 11:12:274 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 30,000
+2021-12-16 11:12:681 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (bb888f9fbd63a056ad37197c1cd983ef)] -> id: search-submit]
+2021-12-16 11:12:14 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (bb888f9fbd63a056ad37197c1cd983ef)] -> css selector: .listing-search-title]
+2021-12-16 11:12:783 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:02 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b263888e2a73f55e9d8bfe23cb025da3)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:719 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:252 INFO  NewAndUsedCarSearchPage :47 - select make : Honda
+2021-12-16 11:12:421 INFO  NewAndUsedCarSearchPage :52 - select model : Jazz
+2021-12-16 11:12:166 INFO  NewAndUsedCarSearchPage :57 - selecting location : Far West
+2021-12-16 11:12:551 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 90,000
+2021-12-16 11:12:911 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (b263888e2a73f55e9d8bfe23cb025da3)] -> id: search-submit]
+2021-12-16 11:12:586 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (b263888e2a73f55e9d8bfe23cb025da3)] -> css selector: .listing-search-title]
+2021-12-16 11:12:539 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:242 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (d6a0587a6608a8fd368cc7aa46f526dd)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:188 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:421 INFO  NewAndUsedCarSearchPage :47 - select make : Ford
+2021-12-16 11:12:566 INFO  NewAndUsedCarSearchPage :52 - select model : Fiesta
+2021-12-16 11:12:348 INFO  NewAndUsedCarSearchPage :57 - selecting location : Sydney
+2021-12-16 11:12:697 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 20,000
+2021-12-16 11:12:522 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (d6a0587a6608a8fd368cc7aa46f526dd)] -> id: search-submit]
+2021-12-16 11:12:894 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (d6a0587a6608a8fd368cc7aa46f526dd)] -> css selector: .listing-search-title]
+2021-12-16 11:12:219 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:501 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b577b43e29f9e1437f4de9189b29d87d)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:647 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:956 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:865 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (754b908127a833a4f46edf8e5120445b)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:619 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:781 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:590 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (20fe60f5c71b044669de62978ad77f37)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:395 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:583 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:333 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c8eb216aa719a736ddf12296eb927f90)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:25 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:271 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:659 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (69aca5456b6f00ffa338d09db04c811f)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:107 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:438 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:628 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (00f34ca4edc6783a9b4eacc7265d2366)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:127 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:849 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:704 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (2d4a1bd1787e68aa0aa43de6c7e22475)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:346 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:666 INFO  NewAndUsedCarSearchPage :47 - select make : Audi
+2021-12-16 11:12:858 INFO  NewAndUsedCarSearchPage :52 - select model : A4
+2021-12-16 11:12:727 INFO  NewAndUsedCarSearchPage :57 - selecting location : Perth
+2021-12-16 11:12:134 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 15,000
+2021-12-16 11:12:339 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (2d4a1bd1787e68aa0aa43de6c7e22475)] -> id: search-submit]
+2021-12-16 11:12:696 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (2d4a1bd1787e68aa0aa43de6c7e22475)] -> css selector: .listing-search-title]
+2021-12-16 11:12:539 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:14 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (d2d528f1f9298aa0cfaebe9c040c3135)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:767 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:93 INFO  NewAndUsedCarSearchPage :47 - select make : Honda
+2021-12-16 11:12:355 INFO  NewAndUsedCarSearchPage :52 - select model : Accord
+2021-12-16 11:12:370 INFO  NewAndUsedCarSearchPage :57 - selecting location : All
+2021-12-16 11:12:727 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 7,500
+2021-12-16 11:12:692 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (d2d528f1f9298aa0cfaebe9c040c3135)] -> id: search-submit]
+2021-12-16 11:12:979 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (d2d528f1f9298aa0cfaebe9c040c3135)] -> css selector: .listing-search-title]
+2021-12-16 11:12:775 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:536 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e1331841830517c40f7c74b76cb65eb3)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:326 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:571 INFO  NewAndUsedCarSearchPage :47 - select make : Mitsubishi
+2021-12-16 11:12:827 INFO  NewAndUsedCarSearchPage :52 - select model : Lancer
+2021-12-16 11:12:703 INFO  NewAndUsedCarSearchPage :57 - selecting location : New England
+2021-12-16 11:12:44 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 40,000
+2021-12-16 11:12:146 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (e1331841830517c40f7c74b76cb65eb3)] -> id: search-submit]
+2021-12-16 11:12:537 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (e1331841830517c40f7c74b76cb65eb3)] -> css selector: .listing-search-title]
+2021-12-16 11:12:387 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:372 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (d39d5f4538fd6650d04dec3ed4b7071f)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:944 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:269 INFO  NewAndUsedCarSearchPage :47 - select make : Mini
+2021-12-16 11:12:438 INFO  NewAndUsedCarSearchPage :52 - select model : Cooper
+2021-12-16 11:12:546 INFO  NewAndUsedCarSearchPage :57 - selecting location : All
+2021-12-16 11:12:892 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 30,000
+2021-12-16 11:12:44 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (d39d5f4538fd6650d04dec3ed4b7071f)] -> id: search-submit]
+2021-12-16 11:12:274 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (d39d5f4538fd6650d04dec3ed4b7071f)] -> css selector: .listing-search-title]
+2021-12-16 11:12:93 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:224 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (7e09d8b9c3ec6c5b35110a681156556a)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:927 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:331 INFO  NewAndUsedCarSearchPage :47 - select make : Maserati
+2021-12-16 11:12:442 INFO  NewAndUsedCarSearchPage :52 - select model : 3200
+2021-12-16 11:12:339 INFO  NewAndUsedCarSearchPage :57 - selecting location : Melbourne
+2021-12-16 11:12:667 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 90,000
+2021-12-16 11:12:626 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (7e09d8b9c3ec6c5b35110a681156556a)] -> id: search-submit]
+2021-12-16 11:12:919 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (7e09d8b9c3ec6c5b35110a681156556a)] -> css selector: .listing-search-title]
+2021-12-16 11:12:748 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:518 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (22c6cc32f79560c0a9805a9287553024)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:477 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:797 INFO  NewAndUsedCarSearchPage :47 - select make : Ford
+2021-12-16 11:12:980 INFO  NewAndUsedCarSearchPage :52 - select model : Fiesta
+2021-12-16 11:12:824 INFO  NewAndUsedCarSearchPage :57 - selecting location : Sydney
+2021-12-16 11:12:177 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 20,000
+2021-12-16 11:12:894 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (22c6cc32f79560c0a9805a9287553024)] -> id: search-submit]
+2021-12-16 11:12:159 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (22c6cc32f79560c0a9805a9287553024)] -> css selector: .listing-search-title]
+2021-12-16 11:12:750 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:143 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (8004b004f5e9be93a1634f935f0c40c4)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:470 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:889 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:173 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (743bbe12d2b38318e6754fd745d9a0b2)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:764 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:19 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:919 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (154516736790dbc9ba041f100eb39b19)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:306 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:679 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:160 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (2bf651693842771e3b77ca1058a5c310)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:291 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:439 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:674 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (fc98ccce2c2cc393300502f12510a3e5)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:594 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:659 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:71 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (cf267b12ed45b2c05991f858ae6c16c1)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:304 INFO  HomePage :37 - click on search cars : Find a Dealer
+2021-12-16 11:12:540 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:747 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (f58e832e36f24577b682c1b15524ede1)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:350 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:693 INFO  NewAndUsedCarSearchPage :47 - select make : Audi
+2021-12-16 11:12:843 INFO  NewAndUsedCarSearchPage :52 - select model : A4
+2021-12-16 11:12:669 INFO  NewAndUsedCarSearchPage :57 - selecting location : Perth
+2021-12-16 11:12:84 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 15,000
+2021-12-16 11:12:466 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (f58e832e36f24577b682c1b15524ede1)] -> id: search-submit]
+2021-12-16 11:12:778 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (f58e832e36f24577b682c1b15524ede1)] -> css selector: .listing-search-title]
+2021-12-16 11:12:593 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:900 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (39372528aec5624e7b65fe5c00e94383)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:925 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:281 INFO  NewAndUsedCarSearchPage :47 - select make : Honda
+2021-12-16 11:12:512 INFO  NewAndUsedCarSearchPage :52 - select model : Accord
+2021-12-16 11:12:494 INFO  NewAndUsedCarSearchPage :57 - selecting location : All
+2021-12-16 11:12:838 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 7,500
+2021-12-16 11:12:342 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (39372528aec5624e7b65fe5c00e94383)] -> id: search-submit]
+2021-12-16 11:12:408 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (39372528aec5624e7b65fe5c00e94383)] -> css selector: .listing-search-title]
+2021-12-16 11:12:249 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:818 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (7c47b7114992a4ea1fefed2df01280c3)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:501 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:766 INFO  NewAndUsedCarSearchPage :47 - select make : Mitsubishi
+2021-12-16 11:12:915 INFO  NewAndUsedCarSearchPage :52 - select model : Lancer
+2021-12-16 11:12:811 INFO  NewAndUsedCarSearchPage :57 - selecting location : New England
+2021-12-16 11:12:228 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 40,000
+2021-12-16 11:12:574 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (7c47b7114992a4ea1fefed2df01280c3)] -> id: search-submit]
+2021-12-16 11:12:977 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (7c47b7114992a4ea1fefed2df01280c3)] -> css selector: .listing-search-title]
+2021-12-16 11:12:784 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:978 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (cc647e031057b8753ef89d9be32b871f)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:494 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:851 INFO  NewAndUsedCarSearchPage :47 - select make : Mini
+2021-12-16 11:12:970 INFO  NewAndUsedCarSearchPage :52 - select model : Cooper
+2021-12-16 11:12:47 INFO  NewAndUsedCarSearchPage :57 - selecting location : All
+2021-12-16 11:12:410 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 30,000
+2021-12-16 11:12:667 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (cc647e031057b8753ef89d9be32b871f)] -> id: search-submit]
+2021-12-16 11:12:800 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (cc647e031057b8753ef89d9be32b871f)] -> css selector: .listing-search-title]
+2021-12-16 11:12:671 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:257 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (81443db4b530f582aa8a0796ad46813b)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:863 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:513 INFO  NewAndUsedCarSearchPage :47 - select make : Maserati
+2021-12-16 11:12:658 INFO  NewAndUsedCarSearchPage :52 - select model : 3200
+2021-12-16 11:12:452 INFO  NewAndUsedCarSearchPage :57 - selecting location : Melbourne
+2021-12-16 11:12:801 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 90,000
+2021-12-16 11:12:506 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (81443db4b530f582aa8a0796ad46813b)] -> id: search-submit]
+2021-12-16 11:12:155 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (81443db4b530f582aa8a0796ad46813b)] -> css selector: .listing-search-title]
+2021-12-16 11:12:00 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:350 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (bdac564f1d021ab334c9f93efecfaeee)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:866 INFO  HomePage :37 - click on search cars : Search Cars
+2021-12-16 11:12:279 INFO  NewAndUsedCarSearchPage :47 - select make : Ford
+2021-12-16 11:12:408 INFO  NewAndUsedCarSearchPage :52 - select model : Fiesta
+2021-12-16 11:12:244 INFO  NewAndUsedCarSearchPage :57 - selecting location : Sydney
+2021-12-16 11:12:614 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 20,000
+2021-12-16 11:12:922 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (bdac564f1d021ab334c9f93efecfaeee)] -> id: search-submit]
+2021-12-16 11:12:25 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (bdac564f1d021ab334c9f93efecfaeee)] -> css selector: .listing-search-title]
+2021-12-16 11:12:938 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:90 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (5fd5fd6bd8849ff62e3df3c87eb2e69c)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:32 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:400 INFO  NewAndUsedCarSearchPage :47 - select make : Audi
+2021-12-16 11:12:669 INFO  NewAndUsedCarSearchPage :52 - select model : A3
+2021-12-16 11:12:370 INFO  NewAndUsedCarSearchPage :57 - selecting location : Perth
+2021-12-16 11:12:705 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 35,000
+2021-12-16 11:12:703 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (5fd5fd6bd8849ff62e3df3c87eb2e69c)] -> id: search-submit]
+2021-12-16 11:12:45 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (5fd5fd6bd8849ff62e3df3c87eb2e69c)] -> css selector: .listing-search-title]
+2021-12-16 11:12:858 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:780 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (45a3e4afeb1efede8d79bae9632dd89d)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:976 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:274 INFO  NewAndUsedCarSearchPage :47 - select make : Honda
+2021-12-16 11:12:372 INFO  NewAndUsedCarSearchPage :52 - select model : Accord
+2021-12-16 11:12:277 INFO  NewAndUsedCarSearchPage :57 - selecting location : All
+2021-12-16 11:12:634 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 10,000
+2021-12-16 11:12:698 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (45a3e4afeb1efede8d79bae9632dd89d)] -> id: search-submit]
+2021-12-16 11:12:39 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (45a3e4afeb1efede8d79bae9632dd89d)] -> css selector: .listing-search-title]
+2021-12-16 11:12:826 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:657 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (f176afa92990c810f7f2171c99bd7b61)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:642 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:937 INFO  NewAndUsedCarSearchPage :47 - select make : BMW
+2021-12-16 11:12:94 INFO  NewAndUsedCarSearchPage :52 - select model : 5 Series
+2021-12-16 11:12:844 INFO  NewAndUsedCarSearchPage :57 - selecting location : New England
+2021-12-16 11:12:200 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 90,000
+2021-12-16 11:12:394 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (f176afa92990c810f7f2171c99bd7b61)] -> id: search-submit]
+2021-12-16 11:12:637 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (f176afa92990c810f7f2171c99bd7b61)] -> css selector: .listing-search-title]
+2021-12-16 11:12:492 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:370 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (5dd53492f87ac734aa6b9e4c3e820f90)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:262 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:567 INFO  NewAndUsedCarSearchPage :47 - select make : Mini
+2021-12-16 11:12:667 INFO  NewAndUsedCarSearchPage :52 - select model : Cooper
+2021-12-16 11:12:407 INFO  NewAndUsedCarSearchPage :57 - selecting location : Hunter
+2021-12-16 11:12:747 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 30,000
+2021-12-16 11:12:509 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (5dd53492f87ac734aa6b9e4c3e820f90)] -> id: search-submit]
+2021-12-16 11:12:891 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (5dd53492f87ac734aa6b9e4c3e820f90)] -> css selector: .listing-search-title]
+2021-12-16 11:12:773 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:775 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (033acc7ed30feb6eb3c4f9ede1b5566c)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:286 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:631 INFO  NewAndUsedCarSearchPage :47 - select make : Honda
+2021-12-16 11:12:747 INFO  NewAndUsedCarSearchPage :52 - select model : Jazz
+2021-12-16 11:12:445 INFO  NewAndUsedCarSearchPage :57 - selecting location : Far West
+2021-12-16 11:12:792 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 90,000
+2021-12-16 11:12:625 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (033acc7ed30feb6eb3c4f9ede1b5566c)] -> id: search-submit]
+2021-12-16 11:12:680 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (033acc7ed30feb6eb3c4f9ede1b5566c)] -> css selector: .listing-search-title]
+2021-12-16 11:12:494 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 11:12:288 INFO  HomePage :32 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e0b3f8dc0f1740213a4eab1b8889500d)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 11:12:187 INFO  HomePage :37 - click on search cars : Used
+2021-12-16 11:12:550 INFO  NewAndUsedCarSearchPage :47 - select make : Ford
+2021-12-16 11:12:680 INFO  NewAndUsedCarSearchPage :52 - select model : Fiesta
+2021-12-16 11:12:458 INFO  NewAndUsedCarSearchPage :57 - selecting location : Sydney
+2021-12-16 11:12:968 INFO  NewAndUsedCarSearchPage :62 - selecting max price : 20,000
+2021-12-16 11:12:161 INFO  NewAndUsedCarSearchPage :67 - clicking om find my next car : [[ChromeDriver: chrome on WINDOWS (e0b3f8dc0f1740213a4eab1b8889500d)] -> id: search-submit]
+2021-12-16 11:12:566 INFO  SearchForCarsPage :29 - verifying search results : [[ChromeDriver: chrome on WINDOWS (e0b3f8dc0f1740213a4eab1b8889500d)] -> css selector: .listing-search-title]

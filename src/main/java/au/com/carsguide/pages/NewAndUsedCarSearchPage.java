@@ -44,23 +44,26 @@ public class NewAndUsedCarSearchPage extends Utility {
 
     public void selectMake(String make) {
         pmSelectByVisibleTextFromDropDown(makes, make);
+        log.info("select make : " + make);
     }
 
     public void selectModel(String model) {
         pmSelectByVisibleTextFromDropDown(models, model);
+        log.info("select model : " + model);
     }
 
     public void selectLocation(String location) {
         pmSelectByContainsTextFromDropDown(locations, location);
+        log.info("selecting location : " + location);
     }
 
     public void selectPriceMax(String price) {
         pmSelectByContainsTextFromDropDown(priceMax, price);
+        log.info("selecting max price : " + price);
     }
 
     public void clickOnFindMyNextCar(){
         pmClickOnElement(findMyNextCar);
+        log.info("clicking om find my next car : " + findMyNextCar.toString());
     }
-
-
 }

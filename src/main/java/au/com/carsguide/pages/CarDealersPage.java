@@ -20,18 +20,16 @@ public class CarDealersPage extends Utility {
     }
 
     @CacheLookup
-    @FindBy (className = "dealerListing--name")
+    @FindBy(className = "dealerListing--name")
     List<WebElement> dealerNames;
 
     public void verifyDealerNames(String menu) {
-
         for (WebElement name : dealerNames) {
-            if (menu==name.getText()) {
+            if (menu == name.getText()) {
                 Assert.assertTrue(true);
+                log.info("verifying car dealers names : " + menu);
                 break;
-            }else Assert.assertFalse(false);
+            } else Assert.assertFalse(false);
         }
     }
-
-
 }

@@ -24,19 +24,18 @@ public class HomePage extends Utility {
     WebElement buyAndSell;
 
     @CacheLookup
-    @FindBy (xpath = "//p[normalize-space()='Buy']//following::ul[1]/li/a")
+    @FindBy(xpath = "//p[normalize-space()='Buy']//following::ul[1]/li/a")
     List<WebElement> buyAndSellList;
 
-
-    public void iMouseHoverOnBuySellTab(){
+    public void iMouseHoverOnBuySellTab() {
         pmDoMouseHoverNoClick(buyAndSell);
         log.info("mouse hover on buy and sell : " + buyAndSell.toString());
     }
 
     public void clickOnSearchCarsLink(String menu) throws InterruptedException {
         selectMenu(buyAndSellList, menu);
+        log.info("click on search cars : " + menu);
     }
-
 
 
 }

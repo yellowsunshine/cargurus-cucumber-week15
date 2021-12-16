@@ -26,8 +26,6 @@ public class SearchForCarsPage extends Utility {
         String expectedResult = verifySearch.getText();
         Boolean actualMessage = expectedResult.contains(make);
         Assert.assertTrue(actualMessage);
-
+        log.info("verifying search results : " + verifySearch.toString());
     }
-
-
 }
