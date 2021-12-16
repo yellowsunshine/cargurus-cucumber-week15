@@ -1,0 +1,215 @@
+2021-12-16 00:12:110 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:955 INFO  HomePage :30 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (703ec24f639493b33b234e04952c4fea)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 00:12:695 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:674 INFO  HomePage :30 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (ebbcfcd2faf64386ac45ae2ab9380938)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 00:12:136 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:823 INFO  HomePage :30 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (1072abd42ef94eec0c29a71b73b005ac)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 00:12:160 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:840 INFO  HomePage :30 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (5b82f67ac87b6ff217e345a612743e6d)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 00:12:376 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:504 INFO  HomePage :31 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c5bc1d637ab2617a916b05868e53279c)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 00:12:260 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:942 INFO  HomePage :31 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (81e7a44cb88b53bb048ef47b9fffd796)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 00:12:745 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:57 INFO  HomePage :31 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (4b3e1da34cd949fa1542ab533e083991)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 00:12:960 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:959 INFO  HomePage :31 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (28c3f6639ac13067fe8ba26e7db74293)] -> xpath: //li[@class='uhf-menu-item uhf-dropdown-menu-toggle uhf-menu-buysell']]
+2021-12-16 00:12:610 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:576 INFO  HomePage :31 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (baa1ba20b194c6732450478658cc61d8)] -> xpath: //li[@class='uhf-menu-item uhf-dropdown-menu-toggle uhf-menu-buysell']]
+2021-12-16 00:12:593 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:866 INFO  HomePage :37 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (4723b2eb6fda7cc9aa1352af050dde7e)] -> xpath: //li[@class='uhf-menu-item uhf-dropdown-menu-toggle uhf-menu-buysell']]
+2021-12-16 00:12:394 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:724 INFO  HomePage :37 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (cd73c2dd3b8e746c3e40aed2567bf847)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 00:12:676 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:599 INFO  HomePage :37 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0a55db045ca4f1a9daa59d35a7b3e37d)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 00:12:193 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:373 INFO  HomePage :37 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e7f2f166db549fb611c721da006f7af1)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 00:12:244 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 00:12:999 INFO  HomePage :37 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (7307ffa6e467d0253273c52e64e063fe)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 01:12:527 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 01:12:842 INFO  HomePage :37 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (efa184a0f6b4ccf7280fa109f6cfb54f)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 01:12:877 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 01:12:882 INFO  HomePage :37 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (423ecafce36285f7b8ebf1efe8828bf0)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 01:12:710 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 01:12:43 INFO  HomePage :37 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (6eb09e5f7ff5e8bedca2c4f36869572c)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 01:12:642 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 01:12:886 INFO  HomePage :37 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (19169a3b6a491aba45d556e3de19c32f)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 01:12:326 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 01:12:609 INFO  HomePage :37 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (92cabea2739bfca0a71502ec12ceadc7)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 01:12:744 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 01:12:297 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e2169594fa5bc2cd0d2da1298cb71e48)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 01:12:210 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 01:12:789 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (95d6f89ed367186e8f667fa0a1059055)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 01:12:827 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 01:12:657 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (a6eeaef97cd2ef5184ee85e40aa11baa)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 01:12:710 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 01:12:966 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e380c7f19afdf7cf19e3cb3956a34799)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 01:12:210 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 01:12:306 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (ea14bd9f7433e2c4c28aeedf8348147a)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 01:12:560 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 01:12:656 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (4de7f5bff64e72e2a7568e2af9e96d3f)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:827 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:936 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (6906a1e19ca9bbd2b3b24583c92f0f06)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:263 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:958 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (24ba3911d72aba6b3ace9a3fe4470189)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:173 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:792 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (04d6956ac2a52bff79ed53c935399923)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:355 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:859 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (ed017182282605b4b7b0b73d81c2b43a)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:315 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:653 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (40d7278b3e0fd467c4a941362c42f9f1)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:299 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:783 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0effbc08cdaf2d4c7089c81a2f5e3e00)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:27 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:858 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c156b75dc540f69159339ec2378f166c)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:485 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:11 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (171bdb48133eeebca4aec4eca54117fe)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:388 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:759 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b8305c2a22709b9e2906afc5f83f5987)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:443 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:204 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c934b44b62f76b1b5c1e70ae462e962b)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:175 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:710 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:606 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (6858e7996e435a4b8d9fb2c852cfef0c)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:464 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:975 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c5035615fd137ec43905f001b42af169)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:191 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:640 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (ebfd5c6cdce083151673c6f4cf3f1959)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:339 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:107 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e97ae760b6741009f99e5915d1b7c1a9)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:488 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:174 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (6e5943f91f1a84488b080092e842094c)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:337 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:256 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (f852ec0e23e854bb5669986890b56dee)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:08 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:972 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (6e3ee2471929876af7e9da66d6ab65cd)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:880 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:292 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:82 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (5f49f5dd0351554414abcc0df56b32c3)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:773 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:403 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e6c8fc9576523a0851d51ec8403180bc)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:806 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:752 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c8a7f23a44fd2092b223166e37747ea6)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:167 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:681 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (9cd99ae85a3747311a01efdcefafdba2)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:835 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:70 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b3827382db93ef85b98ab0c5f6b6537c)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:967 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:51 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (90ccd03ca95a849f74987bc03aa7a200)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:900 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:185 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (47536168a06f1a1338bc9ba17f78e28e)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:138 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:259 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (2f914519255dbe10c5c4cf5cd29cdf72)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:741 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:651 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (3c4caf3e1a31351e0211c85f56c6bc10)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:859 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:222 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (94ee0d5498ebedea1117af2985c59a2b)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:335 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:180 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (9c5bf6de13186e92e8dc52ab06a2cd6a)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:966 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:421 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (9cf86d8e54fce3fc5d8e0f5ed2593305)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:869 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:666 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (3bba496010cd21df09c8b36ab7017b67)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:646 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:135 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c0a8f5ed122d18266d1bff375dee0695)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:724 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:183 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (42dceaa7877d9e012e980f5f21e74b53)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:870 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:468 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (56ee3f6722363ccf5aa2edca554c434a)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:840 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:319 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (872c779cfaf0c1683a1f3c49b0b06b9c)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:987 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:589 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0805d477bf15e17bba51eacb34f1efd5)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:497 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:458 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (69483a5646faafd88cfe1003454d8a86)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:556 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:325 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (22bc60c83c592da6154e356d19661fde)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:854 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:54 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (8729efcdbdcc661fcfc2e8d70d9a44ff)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:738 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:225 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (cf1d46b7bd0e7a0136ec3253377ba5b1)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:966 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:557 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (2f2207478ea839e0970ebac58986787f)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:565 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:935 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (fcb6c8fc77894036a2b7a2d9d9c4e128)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:831 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:808 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (9c5f89bc406ad28f3a59431f8fdf54d9)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:747 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:719 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (25d11e2d7d385ddab552dcfd1d56d4ae)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:597 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:106 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (a0e7f9be1bfbf458ec9e9686eed9d882)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:172 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:304 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0945361ce3a0764b76fa2867241e60fa)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:137 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:517 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e750e042203b53e7f8bd6ecdc72501e2)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:793 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:740 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (07c56abf934bd8072e58474ec2c3f08d)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:749 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:776 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (1c97f75fe38a520da1c1ccc0b589b5a0)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:771 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:430 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c18fd64b5d76b2952fab304ee2e9e608)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:957 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:436 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (626d79692e5c48e1776b99fd587ef9a3)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:223 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:970 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (5d490f733fe0151b80506031e5022974)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 02:12:842 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 02:12:884 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c9eaf322b7ec902a1e8728c351e3b322)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:660 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:159 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (477597d23c545001132e9c45c5df5432)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:560 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:992 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (758b0e619bacde9faafa07dd6954b94f)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:573 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:109 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (23349a9c3f23fafe5dc68cabfba253f1)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:846 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:354 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (43b53657e9f008bf341c6a18eeb8fa70)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:504 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:406 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (626b08612c6680ea204e2b00a217d537)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:940 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:259 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (9ad24432ba7b9286f9e1ae319220ed09)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:710 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:57 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (3ed0269384f0d15725bce48e06e5cbe4)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:473 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:856 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (2c4ea8078ab5a5ab8443ae6e2f7f70d5)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:83 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:177 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:471 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (3c13cffdf2170962bb6f3feb78353ef5)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:890 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:786 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (01128ff775ac1e532680c0e7c9c5a549)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:419 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:386 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (f81bfbf65485f725b0f7308c87589b5f)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:325 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:189 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (62318a04935f1185a8e70a0b65293454)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:142 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:652 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:923 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (1872a6084a0865637a807d4e6377a042)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:294 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:371 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (eab251a66e97d856023e36884ed1effd)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:243 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:256 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (842caa3177530c168167b34ec9ada8c3)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:233 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:68 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (8dedf643a911c8a08a0fb9c4ad1fbe39)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:933 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:760 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:601 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0c6000f01b3676bbfeebd932ebc024f9)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:10 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:438 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (507c8df218584de773de125a819373d4)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:394 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:672 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (224a5fec9190ec7dca73e3e11626ef89)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:677 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:137 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (45821989db31a0521a2b14db6fdfa88a)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:427 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:767 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (1f30d9adbc0bb63087a821433dc3db01)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:243 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:925 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (ed4db3b4a5e987f3e16ffc085c9dbd1c)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:748 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:690 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (21de7921594fe9b3d97fbe2f8c408fa8)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:634 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:700 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (23afeb91d8a39155ff88b9b84fc0681a)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:567 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:891 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (88790c5caf60c9e652873c89951ed224)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:927 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:137 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (5c5aac264eea4e5da01401a40a94409e)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:125 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:620 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b181a12e407d7f0d4ece9dfdd552b2ed)] -> xpath: //a[text()='buy + sell']]
+2021-12-16 03:12:593 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 03:12:791 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c6b973e3c9436354b751b06ed737d36f)] -> xpath: //a[text()='buy + sell']]
